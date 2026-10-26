@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Packed artifacts
+*.tgz
+*.tar.gz
+*.zip
+
+# Logs and diagnostics
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.plugin-manager/
+
+# Local caches
+.npm-cache/
+.pnpm-store/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

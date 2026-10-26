@@ -1,0 +1,4 @@
+# Install as a bundle layer. Host registers commands; dsh.client loads the UI.
+- insert:
+    - id: context-mask
+      name: dsh-context-mask
